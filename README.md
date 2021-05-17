@@ -1,4 +1,9 @@
 # SmartHome
+
+<p align="center">
+   <img width="400" height="800" src="https://github.com/congminh1809/SmartHome/blob/main/Screenshot%202021-05-17%20144841.jpg">
+</p>
+
 *) Cần: servo, led, pickit, pic16f877a, mạch ra chân, cảm biến khoảng cách, cảm biến nhiệt độ(nếu cảm biến khoảng cách có vấn đè), màn LCD, module esp32, còi
 
 *) Ý tưởng:
